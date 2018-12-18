@@ -126,5 +126,5 @@ let unifiedServer = (req, res) => {
 let router = {
   ping: handlers.ping,
   users: handlers.users,
-  token: handlers.token
+  tokens: handlers.tokens
 };
