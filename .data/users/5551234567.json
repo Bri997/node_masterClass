@@ -1,1 +1,8 @@
-{"firstName":"Ralph","lastName":"Christmas","phone":"5551234567","hashedPassword":"7a0ad2de8537c0d0397a140f1ea7d110b5a7e8d35472591cf877219b61f8f34c","tosAgreement":true}
+{
+  "firstName": "Ralph",
+  "lastName": "Christmas",
+  "phone": "5551234567",
+  "hashedPassword": "7a0ad2de8537c0d0397a140f1ea7d110b5a7e8d35472591cf877219b61f8f34c",
+  "tosAgreement": true,
+  "checks": []
+}
