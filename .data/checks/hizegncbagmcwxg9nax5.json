@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"id":"hizegncbagmcwxg9nax5","userPhone":"5551234567","protocol":"https","url":"google.com","method":"post","successCodes":[200],"timeoutSeconds":3,"state":"down","lastChecked":1548989921708}
+=======
+{"id":"hizegncbagmcwxg9nax5","userPhone":"5551234567","protocol":"https","url":"google.com","method":"post","successCodes":[200],"timeoutSeconds":3,"state":"down","lastChecked":1547777658820}
+>>>>>>> 3b9dcf23488f652ae72d3f9af2546e170bc9aa48
